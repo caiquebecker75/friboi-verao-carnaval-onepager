@@ -1,4 +1,4 @@
-# Friboi · one-pager
+# Friboi · churrasco de verão e Carnaval
 
 Apresentação da 75 LAB publicada em https://projetos.75lab.com.br/friboi-verao-carnaval-onepager/
 
